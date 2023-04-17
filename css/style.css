@@ -32,3 +32,9 @@ img {
 
     border: yellow solid 2px;
 }
+
+table, thead, tbody, td, tr, th {
+    margin: auto;
+    padding: 1px;
+    border: black 1px solid;
+}
